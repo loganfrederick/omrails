@@ -1,5 +1,0 @@
-class AddImageRemoteUrlToPins < ActiveRecord::Migration
-  def change
-    add_column :pins, :string
-  end
-end
